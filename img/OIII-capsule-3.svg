@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<!-- =========================== -->
+<!-- ====  OIII capsule 3  ===== -->
+<!-- *************************** -->
+<!-- Auteur  : Raphaël Grolimund -->
+<!-- Date    : 2016-01-01        -->
+<!-- Contact : grolimur@nous4.ch -->
+<!-- Twitter : @grolimur         -->
+<!-- Licence : CC0               -->
+<!-- =========================== -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="1000" height="500" viewBox="0 0 1000 500">
+<path style="fill:none; stroke:black; stroke-width:20;" d="M50 25 H950 A25 25 90 0 1 975 50 V450 A25 25 90 0 1 950 475 H50 A25 25 90 0 1 25 450 V50 A25 25 90 0 1 50 25Z" />
+<svg xmlns:svg="http://www.w3.org/2000/svg"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" x="100" y="50" width="800" height="400" viewBox="0 0 1000 500">
+<text x="10" y="450" style="stroke:black; fill:black; font-size: 600px;">O</text>
+<text x="410" y="450" style="stroke:black; fill:#0f0; font-size: 600px; font-family:serif;">I</text>
+<text x="610" y="450" style="stroke:black; fill:#0f0; font-size: 600px; font-family:serif;">I</text>
+<text x="810" y="450" style="stroke:black; fill:#0f0; font-size: 600px; font-family:serif;">I</text>
+</svg>
+</svg>
