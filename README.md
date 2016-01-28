@@ -3,11 +3,7 @@
 ## Version`0.1`
 
 ## Description
-<<<<<<< HEAD
-Ces notes de cours ont été créée pour le cours *Collaborer en ligne sans Google & Co." dispensé dans le cadre du programme de formation continue de [BIS] (http://http://www.bis.ch) (Bibliothèque Information Suisse).   
-=======
 Ces notes de cours ont été créée pour le cours *Collaborer en ligne sans Google & Co.* dispensé dans le cadre du programme de formation continue de [BIS] (http://http://www.bis.ch) (Bibliothèque Information Suisse).   
->>>>>>> 618d43c0c5caf22e30d72366c843bf093d2ae714
 
 ## Auteur
 Raphaël Grolimund [raphael.grolimund@epfl.ch] (mailto:raphael.grolimund@epfl.ch)   
