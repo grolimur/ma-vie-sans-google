@@ -15,5 +15,5 @@ Bibliothécaire et formateur à la [Bibliothèque de l'EPFL] (http://library.epf
 ![logo-bibliotheque] (img/logo-bibliotheque.png)![logo-EPFL] (img/logo-EPFL.jpg)   
 
 ## Licence `CC BY`
-![logo-CC-BY] (img/logo-bibliotheque.png)   
+![logo-CC-BY] (img/logo-CC-BY.svg)   
 Cedocument est mis à disposition selon les termes de la Licence [Creative Commons Paternité 4.0 International] (http://creativecommons.org/licenses/by/4.0/deed.fr).   
