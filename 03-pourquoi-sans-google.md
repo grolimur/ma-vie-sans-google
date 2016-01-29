@@ -10,7 +10,7 @@ Les **conditions d'utilisation de Google** stipulent que "*lorsque vous importez
 Google devient co-propriétaire de tout contenu qui transite par ces services, mais n'accepte aucune responsabilité quant au contenu déposé: "*Nos Services affichent des contenus n’appartenant pas à Google. Ces contenus relèvent de l’entière responsabilité de l’entité qui les a rendus disponibles.*"   
 A contrario, "*l’utilisation de[s Services de Google] ne vous confère aucun droit de propriété intellectuelle sur nos Services ni sur les contenus auxquels vous accédez.*" ([*source: Conditions d’utilisation de Google*] (http://marker.to/mCJfju))   
 
-Yahoo! indique ne pas prétendre s'accaparer vos contenus. Pourtant voyez vous-mêmes:   
+**Yahoo** prétend ne pas s'accaparer vos contenus. Pourtant voyez vous-mêmes:   
 > "*Yahoo does not claim ownership of Content you submit or make available for inclusion on the Yahoo Services. However, with respect to Content you submit or make available for inclusion on publicly accessible areas of the Yahoo Services, you grant Yahoo the following worldwide, royalty-free and non-exclusive license(s), as applicable:*   
 
 > *a. With respect to Content you submit or make available for inclusion on publicly accessible areas of Yahoo Groups, the license to use, distribute, reproduce, modify, adapt, publicly perform and publicly display such Content on the Yahoo Services solely for the purposes of providing and promoting the specific Yahoo Group to which such Content was submitted or made available. This license exists only for as long as you elect to continue to include such Content on the Yahoo Services and will terminate at the time you remove or Yahoo removes such Content from the Yahoo Services.*
@@ -19,7 +19,7 @@ Yahoo! indique ne pas prétendre s'accaparer vos contenus. Pourtant voyez vous-m
 
 ([*source: Yahoo Terms of Service*] (http://marker.to/UJC9cx))   
 
-Idem chez Apple:
+Idem chez **Apple**:
 > "[...] *Apple ne revendique aucun droit sur les informations ou le Contenu que vous publiez ou mettez à disposition grâce au Service. Cependant, en publiant ce Contenu sur des parties du Service accessibles au public ou à d’autres utilisateurs avec lesquels vous acceptez de partager ce Contenu, vous concédez à Apple une licence pour le monde entier, à titre gratuit, non exclusive, d’utilisation, de distribution, de reproduction, de modification, d’adaptation, de publication, de traduction, d’exécution et de diffusion publique du Contenu sur le Service uniquement aux fins pour lesquelles un tel Contenu a été publié ou mis à disposition, sans aucune compensation ou obligation envers vous. Vous acceptez que tout contenu que vous publiez soit sous votre seule responsabilité [...]*"
 
 ([*source: Conditions générales iCloud*] (http://marker.to/SEQBiZ))   
@@ -45,7 +45,9 @@ Par contre, vous n'avez pas
 
 * la liberté d'étudier le fonctionnement du programme, et de le modifier pour qu'il effectue vos tâches informatiques comme vous le souhaitez (liberté 1), pour laquelle l'accès au code source est une condition nécessaire;   
 * la liberté de redistribuer des copies, donc d'aider votre voisin (liberté 2);   
-* la liberté de distribuer aux autres des copies de vos versions modifiées (liberté 3); en faisant cela, vous donnez à toute la communauté une possibilité de profiter de vos changements (là aussi l'accès au code source est une condition nécessaire).**AJOUTER UNE REFERENCE**   
+* la liberté de distribuer aux autres des copies de vos versions modifiées (liberté 3); en faisant cela, vous donnez à toute la communauté une possibilité de profiter de vos changements (là aussi l'accès au code source est une condition nécessaire).   
+
+([*source: Free Software Foundation*] (http://www.gnu.org/philosophy/free-sw.fr.html))   
 
 Toutes ces conditions doivent être réunies pour être libre au sens de la Free Software Foundation.   
 
