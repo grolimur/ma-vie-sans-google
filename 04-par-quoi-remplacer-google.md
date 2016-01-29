@@ -1,4 +1,4 @@
-# POURQUOI SANS GOOGLE & CO. ?
+# PAR QUOI REMPLACER GOOGLE & CO. ?
 
 Convaincu par les outils en ligne? Un peu plus familier avec les différentes types d'outils qui existent? Voyons alors pourquoi se passer de Google!   
 
@@ -29,14 +29,12 @@ Les conditions d'utilisation de beaucoup d'autres services en ligne sont de la m
 
 Si de telles conditions d'utilisation ne vous dérangent pas, voyons quelles garanties ces services vous offrent.
 
-
 ### Aucune garantie
 
 La disparition de **Google Reader** pendant l'été 2013 a prouvé qu'un service très utilisé peut fermer pour des raisons commerciales qui échappent complétement au contrôle des utilisateurs. Il ne reste alors à ces derniers qu'à migrer vers un autre outil. Une migration s'accompagne toujours de désagrément (perte de données, incompatibilité de formats, etc.) même dans le cas très simple de la migration d'un agrégateur de flux RSS vers un autre.   
 Il arrive aussi qu'un outil disparaisse sans qu'il n'existe d'équivalent vers lequel migrer. Ce fut par exemple le cas avec la fermeture de **Yahoo! Pipes** l'été dernier. Même si cet outil était sous-utilisé, il n'avait pas de concurrent (donc pas de remplaçant).   
 
 Des conditions d'utilisation peu satisfaisantes et pas de garantie quant à la pérennité du service (et des données). Y a-t-il d'autres problèmes ? Oui, en effet.   
-
 
 ### Pas libre
 
@@ -51,18 +49,6 @@ Toutes ces conditions doivent être réunies pour être libre au sens de la Free
 
 Si le fait de ne pas être libre n'empêche pas d'offrir de l'interopérabilité, on observe toutefois que la tendance de tous ces services en ligne n'est pas d'offrir à tout prix une porte de sortir à leurs utilisateurs...   
 Il va de soi que si des formats ouverts, interopérables et largement utilisés existent, ceux-ci sont pris en charge. C'était le cas du format OPML pour Google Reader p. ex. De même, les liens sauvegardés dans Delicious étaient faciles à exporter au format HTML lorsque Yahoo! (encore!) à abandonner et revendu ce service.   
-
-Si vous avez pour habitude de publier les contenus que vous créez sous licence libre (Creative Commons p. ex.), vous penserez peut-être ce n'est pas vraiment un problème qu'il soit réutilisé par les services sur lesquels vous les avez déposé. Après tout, une licence libre n'est-elle pas précisément faite pour que le travail puisse être réutilisé ?   
-
-
-### Problème de confidentialité
-
-Si ce raisonnement tient la route lorsqu'on considère un service de partage de photos p. ex., il ne faut pas oublier toutes les plateformes en ligne qui vous permettent d'y créer du contenu.   
-Est-il vraiment souhaitable de partager les versions intermédiaires des documents à publier et les documents internes avec des prestataires externes ?   
-
-Il arrive que cela porte pas vraiment à conséquence. Mais mieux vaut bien y réfléchir avant d'utiliser le service, car l'accord que vous donnez en déposant du contenu ne prendra jamais fin!   
-
-Hors du cadre professionnel, ce problème de confidentialité se transforme en non-respect de la vie privée.
 
 
 ## QUEL TEMPS FAIT-IL SUR VOTRE CLOUD ?
