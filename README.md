@@ -1,6 +1,7 @@
 # Collaborer en ligne sans Google & Co.
 
 ## Version`0.1`
+Cette version du document a été publiée le 4 février 2016.   
 
 ## Description
 Ces notes de cours ont été créée pour le cours *Collaborer en ligne sans Google & Co.* dispensé dans le cadre du programme de formation continue de [BIS] (http://http://www.bis.ch) (Bibliothèque Information Suisse).   
@@ -13,3 +14,7 @@ Bibliothécaire et formateur à la [Bibliothèque de l'EPFL] (http://library.epf
 ## Licence `CC BY`
 ![logo-CC-BY] (img/by.svg)   
 Cedocument est mis à disposition selon les termes de la Licence [Creative Commons Paternité 4.0 International] (http://creativecommons.org/licenses/by/4.0/deed.fr).   
+
+## Informations complémentaires
+Tous les liens ont été consultés avant la mise en ligne du document et étaient accessibles.   
+La date est indiquée plus haut dans la section Version.   
