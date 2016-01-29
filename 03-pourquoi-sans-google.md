@@ -6,26 +6,35 @@ Convaincu par les outils en ligne? Un peu plus familier avec les différentes ty
 
 ### Conditions d'utilisation
 
-Les **conditions d'utilisation de Google** stipulent que "lorsque vous importez, soumettez, stockez, envoyez ou recevez des contenus à ou à travers de nos Services, vous accordez à Google (et à toute personne travaillant avec Google) une licence, dans le monde entier, d'utilisation, d'hébergement, de stockage, de reproduction, de modification, de création d'œuvres dérivées (des traductions, des adaptations ou d'autres modifications destinées à améliorer le fonctionnement de vos contenus par le biais de nos Services), de communication, de publication, de représentation publique, d'affichage public ou de distribution publique desdits contenus."   
-Google devient co-propriétaire de tout contenu qui transite par ces services, mais n'accepte aucune responsabilité quant au contenu déposé: "Nos Services affichent des contenus n’appartenant pas à Google. Ces contenus relèvent de l’entière responsabilité de l’entité qui les a rendus disponibles."   
-A contrario, "l’utilisation de[s Services de Google] ne vous confère aucun droit de propriété intellectuelle sur nos Services ni sur les contenus auxquels vous accédez." ([*source: Conditions d’utilisation de Google*] (http://marker.to/mCJfju))   
+Les **conditions d'utilisation de Google** stipulent que "*lorsque vous importez, soumettez, stockez, envoyez ou recevez des contenus à ou à travers de nos Services, vous accordez à Google (et à toute personne travaillant avec Google) une licence, dans le monde entier, d'utilisation, d'hébergement, de stockage, de reproduction, de modification, de création d'œuvres dérivées (des traductions, des adaptations ou d'autres modifications destinées à améliorer le fonctionnement de vos contenus par le biais de nos Services), de communication, de publication, de représentation publique, d'affichage public ou de distribution publique desdits contenus.*"   
+Google devient co-propriétaire de tout contenu qui transite par ces services, mais n'accepte aucune responsabilité quant au contenu déposé: "*Nos Services affichent des contenus n’appartenant pas à Google. Ces contenus relèvent de l’entière responsabilité de l’entité qui les a rendus disponibles.*"   
+A contrario, "*l’utilisation de[s Services de Google] ne vous confère aucun droit de propriété intellectuelle sur nos Services ni sur les contenus auxquels vous accédez.*" ([*source: Conditions d’utilisation de Google*] (http://marker.to/mCJfju))   
 
-Yahoo! ne prétend pas 
-> "Yahoo does not claim ownership of Content you submit or make available for inclusion on the Yahoo Services. However, with respect to Content you submit or make available for inclusion on publicly accessible areas of the Yahoo Services, you grant Yahoo the following worldwide, royalty-free and non-exclusive license(s), as applicable:   
+Yahoo! indique ne pas prétendre s'accaparer vos contenus. Pourtant voyez vous-mêmes:   
+> "*Yahoo does not claim ownership of Content you submit or make available for inclusion on the Yahoo Services. However, with respect to Content you submit or make available for inclusion on publicly accessible areas of the Yahoo Services, you grant Yahoo the following worldwide, royalty-free and non-exclusive license(s), as applicable:*   
 
-> a. With respect to Content you submit or make available for inclusion on publicly accessible areas of Yahoo Groups, the license to use, distribute, reproduce, modify, adapt, publicly perform and publicly display such Content on the Yahoo Services solely for the purposes of providing and promoting the specific Yahoo Group to which such Content was submitted or made available. This license exists only for as long as you elect to continue to include such Content on the Yahoo Services and will terminate at the time you remove or Yahoo removes such Content from the Yahoo Services.
-> b. With respect to photos, graphics, audio or video you submit or make available for inclusion on publicly accessible areas of the Yahoo Services other than Yahoo Groups, the license to use, distribute, reproduce, modify, adapt, publicly perform and publicly display such Content on the Yahoo Services solely for the purpose for which such Content was submitted or made available. This license exists only for as long as you elect to continue to include such Content on the Yahoo Services and will terminate at the time you remove or Yahoo removes such Content from the Yahoo Services.
-> c. With respect to Content other than photos, graphics, audio or video you submit or make available for inclusion on publicly accessible areas of the Yahoo Services other than Yahoo Groups, the perpetual, irrevocable and fully sublicensable license to use, distribute, reproduce, modify, adapt, publish, translate, publicly perform and publicly display such Content (in whole or in part) and to incorporate such Content into other works in any format or medium now known or later developed."   
+> *a. With respect to Content you submit or make available for inclusion on publicly accessible areas of Yahoo Groups, the license to use, distribute, reproduce, modify, adapt, publicly perform and publicly display such Content on the Yahoo Services solely for the purposes of providing and promoting the specific Yahoo Group to which such Content was submitted or made available. This license exists only for as long as you elect to continue to include such Content on the Yahoo Services and will terminate at the time you remove or Yahoo removes such Content from the Yahoo Services.*
+> *b. With respect to photos, graphics, audio or video you submit or make available for inclusion on publicly accessible areas of the Yahoo Services other than Yahoo Groups, the license to use, distribute, reproduce, modify, adapt, publicly perform and publicly display such Content on the Yahoo Services solely for the purpose for which such Content was submitted or made available. This license exists only for as long as you elect to continue to include such Content on the Yahoo Services and will terminate at the time you remove or Yahoo removes such Content from the Yahoo Services.*
+> *c. With respect to Content other than photos, graphics, audio or video you submit or make available for inclusion on publicly accessible areas of the Yahoo Services other than Yahoo Groups, the perpetual, irrevocable and fully sublicensable license to use, distribute, reproduce, modify, adapt, publish, translate, publicly perform and publicly display such Content (in whole or in part) and to incorporate such Content into other works in any format or medium now known or later developed.*"   
+
 ([*source: Yahoo Terms of Service*] (http://marker.to/UJC9cx))   
 
-Apple
+Idem chez Apple:
+> "[...] *Apple ne revendique aucun droit sur les informations ou le Contenu que vous publiez ou mettez à disposition grâce au Service. Cependant, en publiant ce Contenu sur des parties du Service accessibles au public ou à d’autres utilisateurs avec lesquels vous acceptez de partager ce Contenu, vous concédez à Apple une licence pour le monde entier, à titre gratuit, non exclusive, d’utilisation, de distribution, de reproduction, de modification, d’adaptation, de publication, de traduction, d’exécution et de diffusion publique du Contenu sur le Service uniquement aux fins pour lesquelles un tel Contenu a été publié ou mis à disposition, sans aucune compensation ou obligation envers vous. Vous acceptez que tout contenu que vous publiez soit sous votre seule responsabilité [...]*"
 
-**INSERER ICI QUELQUES EXTRAITS DES CONDITIONS D'UTILISATION DE QUELQUES SERVICES GOOGLE, YAHOO, etc.**   
+([*source: Conditions générales iCloud*] (http://marker.to/SEQBiZ))   
 
-### Pas de garantie
+Traduction de ces conditions d'utilisation: vous faites tout le travail, prenez tous les risques et n'acceptez qu'une seule contrepartie: un accès gratuit au service.   
+Les conditions d'utilisation de beaucoup d'autres services en ligne sont de la même veine.   
+
+Si de telles conditions d'utilisation ne vous dérangent pas, voyons quelles garanties ces services vous offrent.
+
+### Aucune garantie
 
 La disparition de **Google Reader** pendant l'été 2013 a prouvé qu'un service très utilisé peut fermer pour des raisons commerciales qui échappent complétement au contrôle des utilisateurs. Il ne reste alors à ces derniers qu'à migrer vers un autre outil. Une migration s'accompagne toujours de désagrément (perte de données, incompatibilité de formats, etc.) même dans le cas très simple de la migration d'un agrégateur de flux RSS vers un autre.   
 Il arrive aussi qu'un outil disparaisse sans qu'il n'existe d'équivalent vers lequel migrer. Ce fut par exemple le cas avec la fermeture de **Yahoo! Pipes** l'été dernier. Même si cet outil était sous-utilisé, il n'avait pas de concurrent (donc pas de remplaçant).   
+
+Des conditions d'utilisation peu satisfaisantes et pas de garantie quant à la pérennité du service (et des données). Y a-t-il d'autres problèmes ? Oui, en effet.   
 
 ### Pas libre
 
@@ -37,6 +46,9 @@ Par contre, vous n'avez pas
 * la liberté de distribuer aux autres des copies de vos versions modifiées (liberté 3); en faisant cela, vous donnez à toute la communauté une possibilité de profiter de vos changements (là aussi l'accès au code source est une condition nécessaire).**AJOUTER UNE REFERENCE**   
 
 Toutes ces conditions doivent être réunies pour être libre au sens de la Free Software Foundation.   
+
+Si le fait de ne pas être libre n'empêche pas d'offrir de l'interopérabilité, on observe toutefois que la tendance de tous ces services en ligne n'est pas d'offrir à tout prix une porte de sortir à leurs utilisateurs...   
+Il va de soi que si des formats ouverts, interopérables et largement utilisés existent, ceux-ci sont pris en charge. C'était le cas du format OPML pour Google Reader p. ex. De même, les liens sauvegardés dans Delicious étaient faciles à exporter au format HTML lorsque Yahoo! (encore!) à abandonner et revendu ce service.   
 
 
 ## QUEL TEMPS FAIT-IL SUR VOTRE CLOUD ?
