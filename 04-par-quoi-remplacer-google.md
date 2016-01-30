@@ -1,5 +1,20 @@
 # PAR QUOI REMPLACER GOOGLE & CO. ?
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Convaincu par les outils en ligne? Un peu plus familier avec les différentes types d'outils qui existent? Voyons alors pourquoi se passer de Google!   
 
 ## GOOGLE: LE GROS NUAGE QUI PLANE SUR VOS DONNÉES

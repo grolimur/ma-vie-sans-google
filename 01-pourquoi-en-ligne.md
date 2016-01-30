@@ -8,4 +8,5 @@ document peut facilement être **édité par plusieurs personnes** (souvent
 simultanément). Mais surtout, on a toujours accès au **document à jour**. Plus
 besoin de se demander quelle version on est en train de consulter/corriger.   
 
+---
 *Notes personnelles*   

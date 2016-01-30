@@ -40,8 +40,8 @@ Des conditions d'utilisation peu satisfaisantes et pas de garantie quant à la p
 
 ### Pas libre
 
-Si Google utilise des logiciels libres pour proposer des outils, les services de Google ne sont pas libres. Vous n'avez que la liberté d'exécuter le programme comme vous voulez, pour n'importe quel usage (liberté 0).   
-Par contre, vous n'avez pas   
+Si Google utilise des logiciels libres pour proposer des outils, les services de Google ne sont pas libres. Vous n'avez que "la liberté d'exécuter le programme comme vous voulez, pour n'importe quel usage (liberté 0)".   
+Par contre, vous n'avez pas:   
 
 > * la liberté d'étudier le fonctionnement du programme, et de le modifier pour qu'il effectue vos tâches informatiques comme vous le souhaitez (liberté 1), pour laquelle l'accès au code source est une condition nécessaire;   
 > * la liberté de redistribuer des copies, donc d'aider votre voisin (liberté 2);   
