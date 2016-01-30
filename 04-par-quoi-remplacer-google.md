@@ -1,12 +1,29 @@
 # PAR QUOI REMPLACER GOOGLE & CO. ?
 
+Le choix d'un remplaçant dépend des compétences, de  que vous avez.
+
+## PARTAGE DE DOCUMENTS
+
+Si vous utilisez...
+
+| NOM | Fournisseur | **O**III | O**I**II | O**II**I | O**III** |
+| Google Drive | Google | x |  |  |  |
+| iCloud | Apple | x |  |  |  |
+| OneDrive | Microsoft | x |  |  |  |
+| Dropbox | Dropbox | x |  |  |  |
+| Slideshare | LinkedIn | x |  |  |  |
+
+Vous pouvez le(s) remplacer par...
+
+| NOM | Fournisseur | **O**III | O**I**II | O**II**I | O**III** |
+| Framadrive | Framsoft |  | x |  |  |
+| SWITCHdrive | SWITCH |  |  | x |  |
+| ownCloud | ownCloud |  |  |  | x |
 
 
 
-
-
-
-
+---
+*Notes personnelles*
 
 
 
@@ -96,6 +113,3 @@ Orageux? Nuageux? Ensoleillée? Un ciel bleu sans nuage?
 
 Vous aurez sans doute deviné que Google & Co. ne proposent que des outils de niveau 0.   
 Alors par quoi rempalcer Google & Co. ?   
-
-
-*Notes personnelles*   

@@ -98,5 +98,5 @@ Orageux? Nuageux? Ensoleillée? Un ciel bleu sans nuage?
 Vous aurez sans doute deviné que Google & Co. ne proposent que des outils de niveau 0.   
 Alors par quoi rempalcer Google & Co. ?   
 
-
+---
 *Notes personnelles*   
