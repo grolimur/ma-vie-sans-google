@@ -2,8 +2,8 @@
 
 Si vous utilisez...
 
-| NOM | Fournisseur | Pays | **O**III | O**I**II | O**II**I | O**III** |
-| --- | ----------- | :--: | :------: | :------: | :------: | :------: |
+| NOM | Fournisseur | Pays | ![O] (../img/capsule.png) | ![1] (../img/capsule.png) | ![2] (../img/capsule.png) | ![3] (../img/capsule.png) |
+| --- | ----------- | :--: | :-----------------------: | :-----------------------: | :-----------------------: | :-----------------------: |
 | Google Drive | Google | US | x |  |  |  |
 | iCloud | Apple | US | x |  |  |  |
 | OneDrive | Microsoft | US | x |  |  |  |
@@ -12,10 +12,8 @@ Si vous utilisez...
 
 ... vous pouvez remplacer par...
 
-![O] (../img/capsule.png)
-
-| NOM | Fournisseur | Pays | ![O] (../img/capsule.png) | O**I**II | O**II**I | O**III** |
-| --- | ----------- | :--: | :--------------------: | :------: | :------: | :------: |
+| NOM | Fournisseur | Pays | ![O] (../img/capsule.png) | ![1] (../img/capsule.png) | ![2] (../img/capsule.png) | ![3] (../img/capsule.png) |
+| --- | ----------- | :--: | :-----------------------: | :-----------------------: | :-----------------------: | :-----------------------: |
 | Framadrive | Framsoft | FR |  | x |  |  |
 | SWITCHdrive | SWITCH | CH |  |  | x |  |
 | ownCloud | ownCloud | -- |  |  |  | x |
