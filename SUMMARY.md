@@ -1,4 +1,4 @@
-# Summary
+# SUMMARY
 
 * [Programme](00-programme.md)
 * [Pourquoi des outils en ligne?](01-pourquoi-en-ligne.md)
