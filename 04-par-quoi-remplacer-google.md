@@ -6,19 +6,21 @@ Le choix d'un remplaçant dépend des compétences, de  que vous avez.
 
 Si vous utilisez...
 
-| NOM | Fournisseur | **O**III | O**I**II | O**II**I | O**III** |
-| Google Drive | Google | x |  |  |  |
-| iCloud | Apple | x |  |  |  |
-| OneDrive | Microsoft | x |  |  |  |
-| Dropbox | Dropbox | x |  |  |  |
-| Slideshare | LinkedIn | x |  |  |  |
+| NOM | Fournisseur | Pays | **O**III | O**I**II | O**II**I | O**III** |
+| --- | ----------- | :--: | :------: | :------: | :------: | :------: |
+| Google Drive | Google | US | x |  |  |  |
+| iCloud | Apple | US | x |  |  |  |
+| OneDrive | Microsoft | US | x |  |  |  |
+| Dropbox | Dropbox Inc. | US | x |  |  |  |
+| Slideshare | LinkedIn | US | x |  |  |  |
 
 Vous pouvez le(s) remplacer par...
 
-| NOM | Fournisseur | **O**III | O**I**II | O**II**I | O**III** |
-| Framadrive | Framsoft |  | x |  |  |
-| SWITCHdrive | SWITCH |  |  | x |  |
-| ownCloud | ownCloud |  |  |  | x |
+| NOM | Fournisseur | Pays | **O**III | O**I**II | O**II**I | O**III** |
+| --- | ----------- | :--: | :------: | :------: | :------: | :------: |
+| Framadrive | Framsoft | FR |  | x |  |  |
+| SWITCHdrive | SWITCH | CH |  |  | x |  |
+| ownCloud | ownCloud | -- |  |  |  | x |
 
 
 
