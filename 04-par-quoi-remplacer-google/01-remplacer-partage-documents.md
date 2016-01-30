@@ -12,8 +12,8 @@ Si vous utilisez...
 
 ... vous pouvez remplacer par...
 
-| NOM | Fournisseur | Pays | **O**III | O**I**II | O**II**I | O**III** |
-| --- | ----------- | :--: | :------: | :------: | :------: | :------: |
+| NOM | Fournisseur | Pays | ![O] (img/capsule.png) | O**I**II | O**II**I | O**III** |
+| --- | ----------- | :--: | :--------------------: | :------: | :------: | :------: |
 | Framadrive | Framsoft | FR |  | x |  |  |
 | SWITCHdrive | SWITCH | CH |  |  | x |  |
 | ownCloud | ownCloud | -- |  |  |  | x |
