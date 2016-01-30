@@ -2,7 +2,7 @@
 
 Si vous utilisez...
 
-| NOM | Fournisseur | Pays | ![O] (../img/OIII-capsule50-0.svg) | ![1] (../img/OIII-capsule50-1.svg) | ![2] (../img/OIII-capsule50-2.svg) | ![3] (../img/OIII-capsule50-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule50-0.svg) | ![1](../img/OIII-capsule50-1.svg) | ![2](../img/OIII-capsule50-2.svg) | ![3](../img/OIII-capsule50-3.svg) |
 | --- | ----------- | :--: | :--------------------------------: | :--------------------------------: | :--------------------------------: | :--------------------------------: |
 | Google Drive | Google | US | x |  |  |  |
 | iCloud | Apple | US | x |  |  |  |
@@ -12,7 +12,7 @@ Si vous utilisez...
 
 ... vous pouvez remplacer par...
 
-| NOM | Fournisseur | Pays | ![O] (../img/capsule.png) | ![1] (../img/capsule.png) | ![2] (../img/capsule.png) | ![3] (../img/capsule.png) |
+| NOM | Fournisseur | Pays | ![O](../img/capsule.png) | ![1](../img/capsule.png) | ![2](../img/capsule.png) | ![3](../img/capsule.png) |
 | --- | ----------- | :--: | :-----------------------: | :-----------------------: | :-----------------------: | :-----------------------: |
 | Framadrive | Framsoft | FR |  | x |  |  |
 | SWITCHdrive | SWITCH | CH |  |  | x |  |
