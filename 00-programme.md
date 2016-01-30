@@ -1,3 +1,0 @@
-# PROGRAMME
-
-... cf. SUMMARY.md

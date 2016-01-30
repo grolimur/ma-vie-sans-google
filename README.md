@@ -18,4 +18,8 @@ Cedocument est mis à disposition selon les termes de la Licence [Creative Commo
 
 ## Informations complémentaires
 Tous les liens ont été consultés avant la mise en ligne du document et étaient accessibles.   
-La date est indiquée plus haut dans la section Version.   
+La date est indiquée plus haut dans la section Version.
+
+## Programme du cours
+
+...

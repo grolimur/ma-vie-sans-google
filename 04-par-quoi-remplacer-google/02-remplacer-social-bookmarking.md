@@ -14,7 +14,7 @@ Si vous utilisez...
 | --- | ----------- | :--: | :--------------------------------: | :--------------------------------: | :--------------------------------: | :--------------------------------: |
 | Shaarli | Sebsauvage | FR |  | [x](https://www.shaarli.fr) |  | [x](http://sebsauvage.net/wiki/doku.php?id=php:shaarli) |
 
-Shaarli peut être utilisé comme un service en ligne ([https://www.shaarli.fr](https://www.shaarli.fr)), ce qui ne nécessite que la création d'un compte gratuit. Mais Shaarli a d'abord été développé comme un outil à installer sur son propre serveur.
+**Shaarli** peut être utilisé comme un service en ligne ([https://www.shaarli.fr](https://www.shaarli.fr)), ce qui ne nécessite que la création d'un compte gratuit. Mais Shaarli a d'abord été développé comme un outil à installer sur son propre serveur.
 À télécharger depuis [http://sebsauvage.net/wiki/doku.php?id=php:shaarli](http://sebsauvage.net/wiki/doku.php?id=php:shaarli).
 
 ---

@@ -8,7 +8,7 @@
     * [Partage de documents](04-par-quoi-remplacer-google/01-remplacer-partage-documents.md)
     * [Social bookmarking](04-par-quoi-remplacer-google/02-remplacer-social-bookmarking.md)
     * [Bibliographie collaborative](04-par-quoi-remplacer-google/03-remplacer-bibliographie-collaborative.md)
-    * [Veille collaborative](04-par-quoi-remplacer-google/04-remplacer-veille-collaborative.md)
+    * [Veille (personnelle ou collaborative)](04-par-quoi-remplacer-google/04-remplacer-veille.md)
     * [Écriture collaborative](04-par-quoi-remplacer-google/05-remplacer-ecriture-collaborative.md)
     * [Curation](04-par-quoi-remplacer-google/06-remplacer-curation.md)
     * [Gestion de projet](04-par-quoi-remplacer-google/07-remplacer-gestion-projet.md)
