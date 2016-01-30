@@ -12,9 +12,9 @@ Si vous utilisez...
 
 ... vous pouvez remplacer par...
 
-![O] (img/capsule.png)
+![O] (../img/capsule.png)
 
-| NOM | Fournisseur | Pays | ![O] (img/capsule.png) | O**I**II | O**II**I | O**III** |
+| NOM | Fournisseur | Pays | ![O] (../img/capsule.png) | O**I**II | O**II**I | O**III** |
 | --- | ----------- | :--: | :--------------------: | :------: | :------: | :------: |
 | Framadrive | Framsoft | FR |  | x |  |  |
 | SWITCHdrive | SWITCH | CH |  |  | x |  |
