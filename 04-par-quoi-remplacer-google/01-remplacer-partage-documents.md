@@ -12,6 +12,8 @@ Si vous utilisez...
 
 ... vous pouvez remplacer par...
 
+![O] (img/capsule.png)
+
 | NOM | Fournisseur | Pays | ![O] (img/capsule.png) | O**I**II | O**II**I | O**III** |
 | --- | ----------- | :--: | :--------------------: | :------: | :------: | :------: |
 | Framadrive | Framsoft | FR |  | x |  |  |
