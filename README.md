@@ -1,11 +1,11 @@
-# Collaborer en ligne sans Google & Co.
+# Collaborer et partgaer en ligne sans Google & Co.
 
 ## Version`0.1`
 ** CE DOCUMENT N'EST PAS TERMINÉ !**   
 Il est destiné a être publié le 4 février 2016.   
 
 ## Description
-Ces notes de cours ont été créée pour le cours *Collaborer en ligne sans Google & Co.* dispensé dans le cadre du programme de formation continue de [BIS](http://http://www.bis.ch) (Bibliothèque Information Suisse).   
+Ces notes de cours ont été créée pour le cours *Collaborer et partager en ligne sans Google & Co.* dispensé dans le cadre du programme de formation continue de [BIS](http://http://www.bis.ch) (Bibliothèque Information Suisse).   
 
 ## Auteur
 Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)   
