@@ -74,11 +74,11 @@ Les outils en ligne peuvent être répartis en 4 niveaux.
 ### niveau 0: ...
 ![capsule-niveau-0](img/OIII-capsule200-0.svg)   
 
-| Services | quelqu'un d'autre | soi-même |
+| Services | quelqu'un d'autre | vous-même |
 | :------- | :---------------: | :------: |
 | hébergement | x | . |
 | maintenance | x | . |
-| financement | vos données | . |
+| financement | vente de données + pub | . |
 | contrôle des données | x | . |
 
 À ce niveau-là, vous pouvez considérer que les données déposées vont être réutilisées et alimenter un financement plus ou moins malsain (publicité, vente de vos données, etc.).   
@@ -87,7 +87,7 @@ Les outils en ligne peuvent être répartis en 4 niveaux.
 ### niveau 1: ...
 ![capsule-niveau-1](img/OIII-capsule200-1.svg)   
 
-| Services | quelqu'un d'autre | soi-même |
+| Services | quelqu'un d'autre | vous-même |
 | :------- | :---------------: | :------: |
 | hébergement | x | . |
 | maintenance | x | . |
@@ -101,7 +101,7 @@ Vos données sont stockées à distance, mais le service choisi est respecteux (
 ### niveau 2: ...
 ![capsule-niveau-2](img/OIII-capsule200-2.svg)   
 
-| Services | quelqu'un d'autre | soi-même |
+| Services | quelqu'un d'autre | vous-même |
 | :------- | :---------------: | :------: |
 | hébergement | x | . |
 | maintenance | x | . |
@@ -115,7 +115,7 @@ Vos données sont stockées en local, mais gérées par un prestataire externe. 
 ### niveau 3: ...
 ![capsule-niveau-3](img/OIII-capsule200-3.svg)   
 
-| Services | quelqu'un d'autre | soi-même |
+| Services | quelqu'un d'autre | vous-même |
 | :------- | :---------------: | :------: |
 | hébergement | . | x |
 | maintenance | . | x |
@@ -130,7 +130,7 @@ En considérant les services en ligne que vous utilisez actuellement, vous pouve
 Orageux? Nuageux? Ensoleillée? Un ciel bleu sans nuage?   
 
 Vous aurez sans doute deviné que Google & Co. ne proposent que des outils de niveau 0.   
-Alors par quoi rempalcer Google & Co. ?   
+Alors par quoi remplacer Google & Co. ?   
 
 ---
 *Notes personnelles*   

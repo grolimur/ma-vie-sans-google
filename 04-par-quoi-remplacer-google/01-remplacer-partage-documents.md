@@ -13,7 +13,7 @@ Si vous utilisez...
 
 | NOM | Fournisseur | Pays | Limite | ![O](../img/OIII-capsule50-0.svg) | ![1](../img/OIII-capsule50-1.svg) | ![2](../img/OIII-capsule50-2.svg) | ![3](../img/OIII-capsule50-3.svg) |
 | :-- | :---------- | :--: | :----: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Framadrive | Framsoft | FR | 2 Go | . | x | . | . |
+| Framadrive | Framasoft | FR | 2 Go | . | x | . | . |
 
 **Framadrive** propose un espace de 2 Go de stockage assorti du respect pour votre vie privée : [https://framadrive.org/](https://framadrive.org/)   
 Le nombre de place est limité, car les moyens (humains et financiers de l'association) le sont aussi.   

@@ -13,7 +13,7 @@ Si vous utilisez...
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule50-0.svg) | ![1](../img/OIII-capsule50-1.svg) | ![2](../img/OIII-capsule50-2.svg) | ![3](../img/OIII-capsule50-3.svg) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Framanews | framasoft | FR | . | x | . | . |
+| Framanews | Framasoft | FR | . | x | . | . |
 | Inoreader | Innologica | BG | . | x | . | . |
 
 **Framanews** propose un agrégateur en ligne respectant pour votre vie privée : [https://framanews.org/](https://framanews.org/)   
@@ -24,6 +24,7 @@ En plus de cela, Inoreader respecte ses utilisateurs, ce qui ne gâche rien :
 > We do not sell, rent, or otherwise provide your Personally Identifiable Information to third parties for marketing purposes. We may provide your Personally Identifiable Information to affiliates that provide services to us with regards to our Website (i.e. payment processors, Website hosting companies, etc.); such affiliates will only receive information necessary to provide the respective services and will be bound by confidentiality agreements limiting the use of such information.   
 
 ([*source: Inoreader Pirvacy Policy*](http://marker.to/Pydr6Z))
+
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule50-0.svg) | ![1](../img/OIII-capsule50-1.svg) | ![2](../img/OIII-capsule50-2.svg) | ![3](../img/OIII-capsule50-3.svg) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
