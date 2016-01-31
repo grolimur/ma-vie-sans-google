@@ -71,25 +71,55 @@ Hors du cadre professionnel, ce problème de confidentialité se transforme en n
 
 Les outils en ligne peuvent être répartis en 4 niveaux.   
 
+### niveau 0: ...
 ![capsule-niveau-0](img/OIII-capsule200-0.svg)   
-**niveau 0: ...**   
-Vous pouvez considérer que les données déposées vont être réutilisées et alimenter un financement plus ou moins malsain (publicité, vente de vos données, etc.).   
+| Services | quelqu'un d'autre | soi-même |
+| :------- | :---------------: | :------: |
+| hébergement | x | . |
+| maintenance | x | . |
+| financement | vos données | . |
+| contrôle des données | x | . |
+
+À ce niveau-là, vous pouvez considérer que les données déposées vont être réutilisées et alimenter un financement plus ou moins malsain (publicité, vente de vos données, etc.).   
 ![nuage-niveau-0](img/OIII-weather-0.svg)   
 
+### niveau 1: ...
 ![capsule-niveau-1](img/OIII-capsule200-1.svg)   
-**niveau 1: ...**   
-Vos données sont stockées à distance, mais le service choisi est respectueux de ses utilisateurs (que ce soit sur le plan de la vie privée ou/et de la confidentialité). Par contre, le mode de financement ne garantit pas la pérennité du service.   
+| Services | quelqu'un d'autre | soi-même |
+| :------- | :---------------: | :------: |
+| hébergement | x | . |
+| maintenance | x | . |
+| financement | ± précaire | . |
+| contrôle des données | . | en grande partie |
+
+Vos données sont stockées à distance, mais le service choisi est respecteux (que ce soit sur le plan de la vie privée ou/et de la confidentialité). Par contre, le mode de financement (dons, p. ex.) ne garantit pas la pérennité à long terme du service.   
 ![nuage-niveau-1](img/OIII-weather-1.svg)   
 
+
+### niveau 2: ...
 ![capsule-niveau-2](img/OIII-capsule200-2.svg)   
-**niveau 2: ...**   
-Vos données sont stockées en local, mais gérées par un prestataire externe (pas vous). Le financement du service est garantit par contrat.   
+| Services | quelqu'un d'autre | soi-même |
+| :------- | :---------------: | :------: |
+| hébergement | x | . |
+| maintenance | x | . |
+| financement | assuré | . |
+| contrôle des données | . | en grande partie |
+
+Vos données sont stockées en local, mais gérées par un prestataire externe. Le financement du service est garanti par contrat.   
 ![nuage-niveau-2](img/OIII-weather-2.svg)   
 
+
+### niveau 3: ...
 ![capsule-niveau-3](img/OIII-capsule200-3.svg)   
-**niveau 3: ...**   
+| Services | quelqu'un d'autre | soi-même |
+| :------- | :---------------: | :------: |
+| hébergement | . | x |
+| maintenance | . | x |
+| financement | . | x |
+| contrôle des données | . | x |
+
 Vous hébergez vous-mêmes vos données. Vous en avez donc le contrôle total, mais vous devez également vous occuper de toutes les opérations de maintenance.   
-Le tout est à vos frais: vous payez, vous devez avoir les compétences techniques et vous devez y consacrer du temps.   
+Le tout est à vos frais: vous devez avoir un espace de stockage web, les compétences techniques et consacrer de votre temps à la maintenance.   
 ![nuage-niveau-3](img/OIII-weather-3.svg)   
 
 En considérant les services en ligne que vous utilisez actuellement, vous pouvez déterminer la situation de votre cloud.   
