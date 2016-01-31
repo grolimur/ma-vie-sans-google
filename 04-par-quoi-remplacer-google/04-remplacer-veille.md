@@ -28,7 +28,7 @@ En plus de cela, Inoreader respecte ses utilisateurs, ce qui ne gâche rien :
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule50-0.svg) | ![1](../img/OIII-capsule50-1.svg) | ![2](../img/OIII-capsule50-2.svg) | ![3](../img/OIII-capsule50-3.svg) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Tiny Tiny RSS | Andrew Dolgov | RU | . | x | . | . |
+| Tiny Tiny RSS | Andrew Dolgov | RU | . | . | . | x |
 
 Framanews est basé sur **Tiny Tiny RSS**, agrégateur de flux RSS en ligne libre (sous licence GNU GPLv3) à installer chez soi.   
 À télécharger sur [https://tt-rss.org/git/tt-rss](https://tt-rss.org/git/tt-rss).   
