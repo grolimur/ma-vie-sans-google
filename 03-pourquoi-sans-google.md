@@ -73,6 +73,7 @@ Les outils en ligne peuvent être répartis en 4 niveaux.
 
 ### niveau 0: ...
 ![capsule-niveau-0](img/OIII-capsule200-0.svg)   
+
 | Services | quelqu'un d'autre | soi-même |
 | :------- | :---------------: | :------: |
 | hébergement | x | . |
@@ -85,6 +86,7 @@ Les outils en ligne peuvent être répartis en 4 niveaux.
 
 ### niveau 1: ...
 ![capsule-niveau-1](img/OIII-capsule200-1.svg)   
+
 | Services | quelqu'un d'autre | soi-même |
 | :------- | :---------------: | :------: |
 | hébergement | x | . |
@@ -98,6 +100,7 @@ Vos données sont stockées à distance, mais le service choisi est respecteux (
 
 ### niveau 2: ...
 ![capsule-niveau-2](img/OIII-capsule200-2.svg)   
+
 | Services | quelqu'un d'autre | soi-même |
 | :------- | :---------------: | :------: |
 | hébergement | x | . |
@@ -111,6 +114,7 @@ Vos données sont stockées en local, mais gérées par un prestataire externe. 
 
 ### niveau 3: ...
 ![capsule-niveau-3](img/OIII-capsule200-3.svg)   
+
 | Services | quelqu'un d'autre | soi-même |
 | :------- | :---------------: | :------: |
 | hébergement | . | x |
