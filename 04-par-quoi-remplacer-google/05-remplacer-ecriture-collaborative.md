@@ -5,8 +5,9 @@ Si vous utilisez...
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule50-0.svg) | ![1](../img/OIII-capsule50-1.svg) | ![2](../img/OIII-capsule50-2.svg) | ![3](../img/OIII-capsule50-3.svg) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Google Docs | Google | US | x | . | . | . |
+| Medium | Medium | US | x | . | . | . |
 
-... vous pouvez remplacer par...
+... vous pouvez le(s) remplacer par...
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule50-0.svg) | ![1](../img/OIII-capsule50-1.svg) | ![2](../img/OIII-capsule50-2.svg) | ![3](../img/OIII-capsule50-3.svg) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
@@ -24,7 +25,8 @@ Il est également possible de choisir une date d'expiration pour chaque pad.
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule50-0.svg) | ![1](../img/OIII-capsule50-1.svg) | ![2](../img/OIII-capsule50-2.svg) | ![3](../img/OIII-capsule50-3.svg) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Authorea | Authorea | US | . | x | x | . |
+| Overleaf | Writelatex | US | x | . | . | . |
+| Authorea | Authorea | US/CH | . | x | x | . |
 
 **Authorea** est un outil d'écriture collaborative d'articles scientifiques en ligne : [https://www.authorea.com/](https://www.authorea.com/).   
 Il est gratuit tant que vous n'avez pas plus d'un article privé. Une fois un article rendu public, vous avez à nouveau un artcile privé à disposition.   
