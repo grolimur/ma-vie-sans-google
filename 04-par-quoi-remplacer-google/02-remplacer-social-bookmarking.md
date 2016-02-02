@@ -2,7 +2,7 @@
 
 Si vous utilisez...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule50-0.svg) | ![1](../img/OIII-capsule50-1.svg) | ![2](../img/OIII-capsule50-2.svg) | ![3](../img/OIII-capsule50-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Delicious | Delicious Media Inc. | US | x | . | . | . |
 | Diigo | Diigo Inc. | US | x | . | . | . |
@@ -10,7 +10,7 @@ Si vous utilisez...
 
 ... vous pouvez le(s) remplacer par...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule50-0.svg) | ![1](../img/OIII-capsule50-1.svg) | ![2](../img/OIII-capsule50-2.svg) | ![3](../img/OIII-capsule50-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Shaarli | [Sebsauvage](http://sebsauvage.net/) | FR | . | [x](https://www.shaarli.fr) | . | [x](http://sebsauvage.net/wiki/doku.php?id=php:shaarli) |
 
