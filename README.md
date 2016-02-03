@@ -43,10 +43,9 @@ La date de consultation correspond à la date de publication de la présente ver
 | **PAUSE** | **CAFÉ** |  |
 | Partager | Quels outils en ligne ? | exercice et discussion |
 | **PAUSE** | **MIDI** |  |
-| Collaborer | Quels outils en ligne ? | présentation et découverte |
-| Collaborer | Quels outils en ligne ? | courtes présentations |
-| Collaborer | Quels outils en ligne ? | travail en groupe |
-| Collaborer | Quels outils en ligne ? | discussion |
+| Collaborer | Découvrez un outil | travail individuel |
+| Collaborer | Présentez un outil | courtes présentations |
+| Collaborer | Quels outils en ligne ? | travail en groupe et discussion |
 | Résumé | Que retenez-vous de la journée ? | travail collaboratif |
 | Bilan | Quels objectifs vous fixez-vous ? | discussion |
 | Conclusion |  |  |
