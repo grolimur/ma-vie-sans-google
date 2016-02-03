@@ -72,7 +72,7 @@ Hors du cadre professionnel, ce problème de confidentialité se transforme en n
 Les outils en ligne peuvent être répartis en 4 niveaux.   
 
 ### niveau 0: ...
-![capsule-niveau-0](img/OIII-capsule-mid-0.svg)   
+![capsule-niveau-0](img/OIII-capsule-mid-0.png)   
 
 | Services | quelqu'un d'autre | vous-même |
 | :------- | :---------------: | :------: |
@@ -82,10 +82,10 @@ Les outils en ligne peuvent être répartis en 4 niveaux.
 | contrôle des données | x | . |
 
 À ce niveau-là, vous pouvez considérer que les données déposées vont être réutilisées et alimenter un financement plus ou moins malsain (publicité, vente de vos données, etc.).   
-![nuage-niveau-0](img/OIII-weather-0.svg)   
+![nuage-niveau-0](img/OIII-weather-0.png)   
 
 ### niveau 1: ...
-![capsule-niveau-1](img/OIII-capsule-mid-1.svg)   
+![capsule-niveau-1](img/OIII-capsule-mid-1.png)   
 
 | Services | quelqu'un d'autre | vous-même |
 | :------- | :---------------: | :------: |
@@ -95,11 +95,11 @@ Les outils en ligne peuvent être répartis en 4 niveaux.
 | contrôle des données | . | en grande partie |
 
 Vos données sont stockées à distance, mais le service choisi est respecteux (que ce soit sur le plan de la vie privée ou/et de la confidentialité). Par contre, le mode de financement (dons, p. ex.) ne garantit pas la pérennité à long terme du service.   
-![nuage-niveau-1](img/OIII-weather-1.svg)   
+![nuage-niveau-1](img/OIII-weather-1.png)   
 
 
 ### niveau 2: ...
-![capsule-niveau-2](img/OIII-capsule-mid-2.svg)   
+![capsule-niveau-2](img/OIII-capsule-mid-2.png)   
 
 | Services | quelqu'un d'autre | vous-même |
 | :------- | :---------------: | :------: |
@@ -109,11 +109,11 @@ Vos données sont stockées à distance, mais le service choisi est respecteux (
 | contrôle des données | . | en grande partie |
 
 Vos données sont stockées en local, mais gérées par un prestataire externe. Le financement du service est garanti par contrat.   
-![nuage-niveau-2](img/OIII-weather-2.svg)   
+![nuage-niveau-2](img/OIII-weather-2.png)   
 
 
 ### niveau 3: ...
-![capsule-niveau-3](img/OIII-capsule-mid-3.svg)   
+![capsule-niveau-3](img/OIII-capsule-mid-3.png)   
 
 | Services | quelqu'un d'autre | vous-même |
 | :------- | :---------------: | :------: |
@@ -124,7 +124,7 @@ Vos données sont stockées en local, mais gérées par un prestataire externe. 
 
 Vous hébergez vous-mêmes vos données. Vous en avez donc le contrôle total, mais vous devez également vous occuper de toutes les opérations de maintenance.   
 Le tout est à vos frais: vous devez avoir un espace de stockage web, les compétences techniques et consacrer de votre temps à la maintenance.   
-![nuage-niveau-3](img/OIII-weather-3.svg)   
+![nuage-niveau-3](img/OIII-weather-3.png)   
 
 En considérant les services en ligne que vous utilisez actuellement, vous pouvez déterminer la situation de votre cloud.   
 Orageux? Nuageux? Ensoleillée? Un ciel bleu sans nuage?   

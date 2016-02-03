@@ -10,3 +10,6 @@
     * [Veille (personnelle ou collaborative)](04-par-quoi-remplacer-google/04-remplacer-veille.md)
     * [Écriture collaborative](04-par-quoi-remplacer-google/05-remplacer-ecriture-collaborative.md)
     * [Autres](04-par-quoi-remplacer-google/06-remplacer-autres.md)
+* [Résumé](05-resume.md)
+* [Bilan personnel](06-bilan.md)
+* [Pour aller plus loin](07-pour-aller-plus-loin.md)

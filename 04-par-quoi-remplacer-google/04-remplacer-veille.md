@@ -2,7 +2,7 @@
 
 Si vous utilisez...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | † Google Reader | Google | US | x | . | . | . |
 | Feedly | Feedly | US | x | . | . | . |
@@ -11,7 +11,7 @@ Si vous utilisez...
 
 ... vous pouvez le(s) remplacer par...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Framanews | Framasoft | FR | . | x | . | . |
 | Inoreader | Innologica | BG | . | x | . | . |
@@ -26,7 +26,7 @@ En plus de cela, Inoreader respecte ses utilisateurs, ce qui ne gâche rien :
 ([*source: Inoreader Pirvacy Policy*](http://marker.to/Pydr6Z))
 
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Tiny Tiny RSS | Andrew Dolgov | RU | . | . | . | x |
 

@@ -2,14 +2,14 @@
 
 Si vous utilisez...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Google Docs | Google | US | x | . | . | . |
 | Medium | Medium | US | x | . | . | . |
 
 ... vous pouvez le(s) remplacer par...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | MoPad | Mozilla | US | . | x | . | . |
 | Framapad | Framasoft | FR | . | x | . | . |
@@ -23,7 +23,7 @@ Il est également possible de choisir une date d'expiration pour chaque pad.
 À noter que l'intégration des pads privés a été rendu possible grâce à l'apport financier des utilisateurs : [http://fr.ulule.com/etherpad-framapad/](http://fr.ulule.com/etherpad-framapad/).   
 
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Overleaf | Writelatex | US | x | . | . | . |
 | Authorea | Authorea | US/CH  | . | x | x | . |
@@ -32,7 +32,7 @@ Il est également possible de choisir une date d'expiration pour chaque pad.
 Il est gratuit tant que vous n'avez pas plus d'un article privé. Une fois un article rendu public, vous avez à nouveau un artcile privé à disposition.   
 
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | EtherPad | The Etherpad Foundation | US | . | . | . | x |
 | ShareLaTeX | ShareLaTeX | FR | . | [x](https://www.sharelatex.com/) | . | [x](https://github.com/sharelatex/sharelatex) |

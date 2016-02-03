@@ -5,14 +5,14 @@
 
 Si vous utilisez...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Scoop.it | Scoop.it | FR | x | . | . | . |
 | Paper.li | Smallrivers SA | CH | x | . | . | . |
 
 ... vous pouvez le(s) remplacer par...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Inoreader | Innologica | BG | . | x | . | . |
 
@@ -23,13 +23,13 @@ Comme déjà relevé, **Inoreader** possède des fonctionnalités de partage qui
 
 Si vous utilisez...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Doodle | Doodle | CH | x | . | . | . |
 
 ... vous pouvez le remplacer par...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Framadate | Framasoft | FR | . | x | . | x |
 
@@ -38,13 +38,13 @@ Si vous utilisez...
 
 Si vous utilisez...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Google Analytics | Google | US | x | . | . | . |
 
 ... vous pouvez le remplacer par...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Piwik | Piwik | NZ | . | x | . | x |
 
@@ -53,13 +53,13 @@ Si vous utilisez...
 
 Si vous utilisez...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Gmail | Google | US | x | . | . | . |
 
 ... vous pouvez le remplacer par...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Protonmail | Proton Technologies | CH | . | x | . | . |
 
@@ -67,20 +67,20 @@ Si vous utilisez...
 
 Si vous utilisez...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Trello | Trello | US | x | . | . | . |
 
 ... vous pouvez le remplacer par...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Framaboard | Framasoft | FR | . | x | . | . |
 
 **Framaboard** est un outil de gestion de projet collaborative : [https://framaboard.org/](https://framaboard.org/).   
 
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Kanboard | Frédéric Guillot | CA | . | . | . | x |
 | Wekan | Wekan Team | FR(?) | . | . | . | x |
@@ -94,7 +94,7 @@ Le second est téléchageable sur [https://wekan.io/](https://wekan.io/).
 
 Si vous utilisez...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | bit.ly | Bitly | US | x | . | . | . |
 | goog.gl | Google | US | x | . | . | . |
@@ -103,14 +103,14 @@ Si vous utilisez...
 
 ... vous pouvez le(s) remplacer par...
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Framalink | Framasoft | FR | . | x | . | . |
 
 **Framalink** est le raccourcisseur d'urls de Framasoft. Il est librement accessible sur [https://frama.link/](https://frama.link/) et [https://huit.re/](https://huit.re/).
 
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | EPFL url shortener | Nicolas Borboën | CH | . | . | x | . |
 
@@ -118,7 +118,7 @@ Si vous utilisez...
 la création d'urls courtes n'y est possible que depuis les ordinateurs ayant une adresse IP de l'EPFL.   
 
 
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.svg) | ![1](../img/OIII-capsule-small-1.svg) | ![2](../img/OIII-capsule-small-2.svg) | ![3](../img/OIII-capsule-small-3.svg) |
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | LSTU | Luc Didry | FR | . | x | . | x |
 | YOURLS | Ozh Richard | CA | . | . | . | x |
