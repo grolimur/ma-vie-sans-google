@@ -1,6 +1,6 @@
 # QUELS OUTILS UTILISEZ-VOUS ?
 
-## QUEL TEMPS FAIT-IL SUR VOTRE CLOUD ?
+## Quel temps fait-il sur votre cloud ?
 
 **EXERCICE**   À l'aide du tableau ci-dessous, choisissez 6 catégories d'outils et déterminer à quel niveau se situent les outils que vous utilisez !
 
