@@ -6,10 +6,10 @@
 
 | Niveau | partage de docs | _______________ | _______________ | _______________ | _______________ | _______________ |
 | :----- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| ![capsule-niveau-3](img/OIII-capsule-small-3.png) |  |  |  |  |  |  |
-| ![capsule-niveau-2](img/OIII-capsule-small-2.png) |  |  |  |  |  |  |
-| ![capsule-niveau-1](img/OIII-capsule-small-1.png) |  |  |  |  |  |  |
-| ![capsule-niveau-0](img/OIII-capsule-small-0.png) |  |  |  |  |  |  |
+| ![capsule-niveau-3](img/OIII-capsule-small-3.png) |   |   |   |   |   |   |
+| ![capsule-niveau-2](img/OIII-capsule-small-2.png) |   |   |   |   |   |   |
+| ![capsule-niveau-1](img/OIII-capsule-small-1.png) |   |   |   |   |   |   |
+| ![capsule-niveau-0](img/OIII-capsule-small-0.png) |   |   |   |   |   |   |
 
 ---
 *Notes personnelles*   
