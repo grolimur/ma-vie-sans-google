@@ -24,7 +24,7 @@ Idem chez **Apple**:
 
 ([*source: Conditions générales iCloud*](http://marker.to/SEQBiZ))   
 
-Traduction de ces conditions d'utilisation: vous faites tout le travail, prenez tous les risques et n'acceptez qu'une seule contrepartie: un accès gratuit au service.   
+En clair : vous faites tout le travail, prenez tous les risques et n'acceptez qu'une seule contrepartie: un accès gratuit au service.   
 Les conditions d'utilisation de beaucoup d'autres services en ligne sont de la même veine.   
 
 Si de telles conditions d'utilisation ne vous dérangent pas, voyons quelles garanties ces services vous offrent.
@@ -33,7 +33,7 @@ Si de telles conditions d'utilisation ne vous dérangent pas, voyons quelles gar
 ### Aucune garantie
 
 La disparition de **Google Reader** pendant l'été 2013 a prouvé qu'un service très utilisé peut fermer pour des raisons commerciales qui échappent complétement au contrôle des utilisateurs. Il ne reste alors à ces derniers qu'à migrer vers un autre outil. Une migration s'accompagne toujours de désagrément (perte de données, incompatibilité de formats, etc.) même dans le cas très simple de la migration d'un agrégateur de flux RSS vers un autre.   
-Il arrive aussi qu'un outil disparaisse sans qu'il n'existe d'équivalent vers lequel migrer. Ce fut par exemple le cas avec la fermeture de **Yahoo! Pipes** l'été dernier. Même si cet outil était sous-utilisé, il n'avait pas de concurrent (donc pas de remplaçant).   
+Il arrive aussi qu'un outil disparaisse sans qu'il n'existe d'équivalent vers lequel migrer. Ce fut par exemple le cas avec la fermeture de **Yahoo! Pipes** à la fin de l'été 2015. Même si cet outil était sous-utilisé, il n'avait pas de concurrent (donc pas de remplaçant).   
 
 Des conditions d'utilisation peu satisfaisantes et pas de garantie quant à la pérennité du service (et des données). Y a-t-il d'autres problèmes ? Oui, en effet.   
 
@@ -43,9 +43,9 @@ Des conditions d'utilisation peu satisfaisantes et pas de garantie quant à la p
 Si Google utilise des logiciels libres pour proposer des outils, les services de Google ne sont pas libres. Vous n'avez que "la liberté d'exécuter le programme comme vous voulez, pour n'importe quel usage (liberté 0)".   
 Par contre, vous n'avez pas:   
 
-> * la liberté d'étudier le fonctionnement du programme, et de le modifier pour qu'il effectue vos tâches informatiques comme vous le souhaitez (liberté 1), pour laquelle l'accès au code source est une condition nécessaire;   
-> * la liberté de redistribuer des copies, donc d'aider votre voisin (liberté 2);   
-> * la liberté de distribuer aux autres des copies de vos versions modifiées (liberté 3); en faisant cela, vous donnez à toute la communauté une possibilité de profiter de vos changements (là aussi l'accès au code source est une condition nécessaire).   
+* la liberté d'étudier le fonctionnement du programme, et de le modifier pour qu'il effectue vos tâches informatiques comme vous le souhaitez (liberté 1), pour laquelle l'accès au code source est une condition nécessaire;   
+* la liberté de redistribuer des copies, donc d'aider votre voisin (liberté 2);   
+* la liberté de distribuer aux autres des copies de vos versions modifiées (liberté 3); en faisant cela, vous donnez à toute la communauté une possibilité de profiter de vos changements (là aussi l'accès au code source est une condition nécessaire).   
 
 ([source: Free Software Foundation](http://www.gnu.org/philosophy/free-sw.fr.html))   
 
@@ -54,24 +54,24 @@ Toutes ces conditions doivent être réunies pour être libre au sens de la Free
 Si le fait de ne pas être libre n'empêche pas d'offrir de l'interopérabilité, on observe toutefois que la tendance de tous ces services en ligne n'est pas d'offrir à tout prix une porte de sortir à leurs utilisateurs...   
 Il va de soi que si des formats ouverts, interopérables et largement utilisés existent, ceux-ci sont pris en charge. C'était le cas du format OPML pour Google Reader p. ex. De même, les liens sauvegardés dans Delicious étaient faciles à exporter au format HTML lorsque Yahoo! (encore!) à abandonner et revendu ce service.   
 
-Si vous avez pour habitude de publier les contenus que vous créez sous licence libre (Creative Commons p. ex.), vous penserez peut-être ce n'est pas vraiment un problème qu'il soit réutilisé par les services sur lesquels vous les avez déposé. Après tout, une licence libre n'est-elle pas précisément faite pour que le travail puisse être réutilisé ?   
+Si vous avez pour habitude de publier les contenus que vous créez sous licence libre (Creative Commons p. ex.), vous penserez peut-être ce n'est pas vraiment un problème qu'ils soient réutilisés par les services sur lesquels vous les avez déposés. Après tout, une licence libre n'est-elle pas précisément faite pour que le travail puisse être réutilisé ?   
 
 
 ### Problème de confidentialité
 
-Si ce raisonnement tient la route lorsqu'on considère un service de partage de photos p. ex., il ne faut pas oublier toutes les plateformes en ligne qui vous permettent d'y créer du contenu.   
-Est-il vraiment souhaitable de partager les versions intermédiaires des documents à publier et les documents internes avec des prestataires externes ?   
+Si ce raisonnement tient la route lorsqu'on considère un service de **partage** de photos p. ex., il ne faut pas oublier toutes les plateformes en ligne qui vous permettent d'y **créer** du contenu.   
+souahitez-vous vraiment partager les versions de travail des documents que vous publiez ? Et les documents internes, voulez-vous vraiment les mettre à disposition d'un prestataire externe ?   
 
-Il arrive que cela porte pas vraiment à conséquence. Mais mieux vaut bien y réfléchir avant d'utiliser le service, car l'accord que vous donnez en déposant du contenu ne prendra jamais fin!   
+Il arrive que cela ne porte pas vraiment à conséquence. Mais mieux vaut bien y réfléchir avant d'utiliser le service, car l'accord que vous donnez en déposant du contenu ne prendra jamais fin!   
 
-Hors du cadre professionnel, ce problème de confidentialité se transforme en non-respect de la vie privée.
+Hors du cadre professionnel, ce problème de confidentialité se transforme en intrusion dans votre sphère privée.
 
 
 ## QUEL TEMPS FAIT-IL SUR VOTRE CLOUD ?
 
 Les outils en ligne peuvent être répartis en 4 niveaux.   
 
-### niveau 0: ...
+### niveau 0: orageux
 ![capsule-niveau-0](img/OIII-capsule-mid-0.png)   
 
 | Services | quelqu'un d'autre | vous-même |
@@ -81,10 +81,10 @@ Les outils en ligne peuvent être répartis en 4 niveaux.
 | financement | vente de données + pub | . |
 | contrôle des données | x | . |
 
-À ce niveau-là, vous pouvez considérer que les données déposées vont être réutilisées et alimenter un financement plus ou moins malsain (publicité, vente de vos données, etc.).   
+À ce niveau-là, vous pouvez considérer que les données déposées vont être réutilisées et alimenter le financement plus ou moins malsain de la plateforme (publicité, vente desdites données, etc.).   
 ![nuage-niveau-0](img/OIII-weather-0.png)   
 
-### niveau 1: ...
+### niveau 1: nuageux
 ![capsule-niveau-1](img/OIII-capsule-mid-1.png)   
 
 | Services | quelqu'un d'autre | vous-même |
@@ -98,7 +98,7 @@ Vos données sont stockées à distance, mais le service choisi est respecteux (
 ![nuage-niveau-1](img/OIII-weather-1.png)   
 
 
-### niveau 2: ...
+### niveau 2: ensoleillé
 ![capsule-niveau-2](img/OIII-capsule-mid-2.png)   
 
 | Services | quelqu'un d'autre | vous-même |
@@ -112,7 +112,7 @@ Vos données sont stockées en local, mais gérées par un prestataire externe. 
 ![nuage-niveau-2](img/OIII-weather-2.png)   
 
 
-### niveau 3: ...
+### niveau 3: ciel radieux
 ![capsule-niveau-3](img/OIII-capsule-mid-3.png)   
 
 | Services | quelqu'un d'autre | vous-même |
@@ -127,7 +127,7 @@ Le tout est à vos frais: vous devez avoir un espace de stockage web, les compé
 ![nuage-niveau-3](img/OIII-weather-3.png)   
 
 En considérant les services en ligne que vous utilisez actuellement, vous pouvez déterminer la situation de votre cloud.   
-Orageux? Nuageux? Ensoleillée? Un ciel bleu sans nuage?   
+Orageux ? Nuageux ? Ensoleillé ? Ciel radieux ?   
 
 Vous aurez sans doute deviné que Google & Co. ne proposent que des outils de niveau 0.   
 Alors par quoi remplacer Google & Co. ?   
