@@ -47,4 +47,4 @@ La date de consultation correspond à la date de publication de la présente ver
 | Collaborer | Quels outils en ligne ? | travail en groupe et discussion |
 | Résumé | Que retenez-vous de la journée ? | travail collaboratif |
 | Bilan | Quels objectifs vous fixez-vous ? | discussion |
-| Conclusion |  |  |
+| Conclusion |  | . |
