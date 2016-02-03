@@ -9,7 +9,7 @@ Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
 ![logo-bibliotheque](img/logo-bibliotheque.png)![logo-EPFL](img/logo-EPFL.jpg)   
 
 ## Version `0.99`
-La dernière version de ce document est disponible sur [https://www.gitbook.com/book/grolimur/collaborer-sans-google/details] (https://www.gitbook.com/book/grolimur/collaborer-sans-google/details).   
+La dernière version de ce document est disponible sur [https://www.gitbook.com/book/grolimur/collaborer-sans-google/details](https://www.gitbook.com/book/grolimur/collaborer-sans-google/details).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
 *Historique des versions*   
