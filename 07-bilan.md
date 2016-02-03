@@ -1,6 +1,6 @@
 # BILAN
 
-La formation touchant à sa fin, quels outils découverts aujourd'hui avez-vous l'intention ?   
+La formation touchant à sa fin, quels outils découverts aujourd'hui avez-vous l'intention d'utiliser ?   
 
 ## Quel temps fera-t-il sur votre cloud ces prochains jours ?
 
