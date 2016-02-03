@@ -31,7 +31,18 @@ Si vous utilisez...
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Framadate | Framasoft | FR | . | x | . | x |
+| Framadate | Framasoft | FR | . | x | . | . |
+
+**Framadate** offre les mêmes fonctionnalités que Doodle, sauf la création d'un compte.   
+Pour gérer les sondages que vous avez créés, il suffit de toujours utiliser la même adresse e-mail.   
+
+
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
+| :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
+| STUdS | Université de Strasbourg | FR | . | . | . | x |
+
+Framadate est basé sur **STUdS** est un logiciel libre (licence CeCILL-B) pour créer des sondages.   
+À télécharger sur [https://sourcesup.cru.fr/projects/studs/](https://sourcesup.cru.fr/projects/studs/).   
 
 
 ### Mesure d'audience
@@ -46,7 +57,11 @@ Si vous utilisez...
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Piwik | Piwik | NZ | . | x | . | x |
+| Piwik | Piwik | NZ | . | [x](http://piwik.org/hosting/) | . | [x](http://piwik.org/download/) |
+
+Piwik est un logiciel libre (licence GNU GPLv3) de mesure de l'audience d'un site web. Vous le choix entre 2 solutions:   
+* Piwik Cloud, version en ligne (et payante) ;
+* le logiciel à télécharger sur [http://piwik.org/download/](http://piwik.org/download/) et à installer chez vous.
 
 
 ### Webmail
@@ -63,6 +78,10 @@ Si vous utilisez...
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Protonmail | Proton Technologies | CH | . | x | . | . |
 
+**Protonmail** est un webmail basé en Suisse, gratuit et sécurisé. Les messages sont automatiquement chiffrés (ce qui les rend inutilisables en cas d'interception).   
+En raison de la forte demande, il faut actuellement s'inscrire et attendre une invitation de la part de Protonmail: [https://protonmail.com/](https://protonmail.com/).   
+
+
 ### Gestion de projet
 
 Si vous utilisez...
@@ -78,7 +97,7 @@ Si vous utilisez...
 | Framaboard | Framasoft | FR | . | x | . | . |
 
 **Framaboard** est un outil de gestion de projet collaborative : [https://framaboard.org/](https://framaboard.org/).   
-
+ 
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
@@ -114,8 +133,8 @@ Si vous utilisez...
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | EPFL url shortener | Nicolas Borboën | CH | . | . | x | . |
 
-**Go.epfl.ch** est un raccourcisseur d'urls destiné à la communauté de l'EPFL.   
-la création d'urls courtes n'y est possible que depuis les ordinateurs ayant une adresse IP de l'EPFL.   
+**Go.epfl.ch** est un exemple de raccourcisseur d'urls institutionnel.   
+La création d'urls courtes n'y est **possible que depuis les ordinateurs ayant une adresse IP de l'EPFL**.   
 
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |

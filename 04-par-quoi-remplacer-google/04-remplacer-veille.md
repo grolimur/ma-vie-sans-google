@@ -16,7 +16,7 @@ Si vous utilisez...
 | Framanews | Framasoft | FR | . | x | . | . |
 | Inoreader | Innologica | BG | . | x | . | . |
 
-**Framanews** propose un agrégateur en ligne respectant pour votre vie privée : [https://framanews.org/](https://framanews.org/)   
+**Framanews** propose un agrégateur en ligne respectant pour votre vie privée : [https://framanews.org/](https://framanews.org/).   
 Le nombre de place est limité, car les moyens (humains et financiers de l'association) le sont aussi, et il n'y a actuellement de place disponible.   
 
 **Inoreader** est le remplaçant à Google Reader qu'on a attendu depuis la disparition de ce dernier. Ses fonctionnalités de partage et de collaboration vont bien plus loin que tous ses concurrents.   

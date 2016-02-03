@@ -20,7 +20,7 @@ Un pad est créé en un clic et ne nécessite pas la création d'un compte.
 
 **Framapad** offre les mêmes fonctionnalités que MoPad auxquelles s'ajoutent la possibilité de créer un compte (pour gérer ses pads) et des pads privés: [https://framapad.org/](https://framapad.org/).   
 Il est également possible de choisir une date d'expiration pour chaque pad.   
-À noter que l'intégration des pads privés a été rendu possible grâce à l'apport financier des utilisateurs : [http://fr.ulule.com/etherpad-framapad/](http://fr.ulule.com/etherpad-framapad/).   
+À noter que l'intégration des pads privés a été rendu possible grâce à un financement participatif : [http://fr.ulule.com/etherpad-framapad/](http://fr.ulule.com/etherpad-framapad/).   
 
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
@@ -40,7 +40,7 @@ Il est gratuit tant que vous n'avez pas plus d'un article privé. Une fois un ar
 Framapad et MoPad sont basés sur **Etherpad**, logiciel libre (licence Apache 2.0) d'écriture collaborative à installer chez choi.   
 À télécharger sur [http://etherpad.org/](http://etherpad.org/).   
 
-**ShareLaTeX** a d'abord été développé comme un outil d'écriture collaborative d'articles scientifiques en ligne. Son code source a été ouvert en février 2014.
+**ShareLaTeX** a d'abord été développé comme un outil d'écriture collaborative d'articles scientifiques en ligne. Le modèle économique de la version en ligne le rend moins intéressant qu'Authorea. Mais son code source a été ouvert en février 2014 qui permet à tout le monde de l'installer chez soi.   
 Le code et les instructions d'installation sont disponibles sur [https://github.com/sharelatex/sharelatex](https://github.com/sharelatex/sharelatex).   
 
 ---

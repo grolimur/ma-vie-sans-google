@@ -17,7 +17,7 @@ Si vous utilisez...
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Zotero | [Roy Rosenzweig Center for History and New Media](http://chnm.gmu.edu/) | US | . | x | ([x](http://chronicle.com/blogs/profhacker/make-your-own-zotero-webdav-server-and-access-your-zotero-attachments-anywhere/38526)) | . |
 
-**Zotero** est un logiciel libre (licence AGPL 3.0). C'est le meilleur gestionnaire de références pour créer des bibliographies collaboratives.
+**Zotero** est un logiciel libre (licence AGPL 3.0). C'est le meilleur gestionnaire de références bibliographiques pour le travail collaboratif.   
 À télécharger sur [https://www.zotero.org/](https://www.zotero.org/).
 
 ---
