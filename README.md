@@ -18,7 +18,7 @@ Historique des versions
 ## Licence `CC BY`
 ![logo-CC-BY](img/by.svg)   
 Ce document est mis à disposition selon les termes de la Licence [Creative Commons Paternité 4.0 International](http://creativecommons.org/licenses/by/4.0/deed.fr).   
-Les fichiers source sont disponibles sur [https://github.com/grolimur/collaborer-sans-Google]"(https://github.com/grolimur/collaborer-sans-Google).   
+Les fichiers source sont disponibles sur [https://github.com/grolimur/collaborer-sans-Google](https://github.com/grolimur/collaborer-sans-Google).   
 
 ## Informations complémentaires
 Tous les liens ont été consultés avant la mise en ligne du document et étaient accessibles.   
