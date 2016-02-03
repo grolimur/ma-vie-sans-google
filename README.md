@@ -12,7 +12,7 @@ Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
 La dernière version de ce document est disponible sur [https://www.gitbook.com/book/grolimur/collaborer-sans-google/details] (https://www.gitbook.com/book/grolimur/collaborer-sans-google/details).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
-Historique des versions   
+*Historique des versions*   
 **1.0**: version initiale (3.02.2016)   
 
 ## Licence `CC BY`
@@ -24,10 +24,29 @@ Les fichiers source sont disponibles sur [https://github.com/grolimur/collaborer
 Tous les liens ont été consultés avant la mise en ligne du document et étaient accessibles.   
 La date de consultation correspond à la date de publication de la présente version.   
 
+## Objectifs de la formation
+
+À la fin de la formation, les participants...   
+
+1. connaîtront des options alternatives à Google & Co. pour partager et collaborer en ligne ;
+2. sauront sur définir leurs critères pour chosiir un outil en ligne ;
+3. se seront fait leur avis sur quelques outils testés pendant la formation.
+
 ## Programme de la journée
 
-| Accueil |  |
-| Pourquoi utiliser des outils en ligne ? |  |
-| Quels outils en ligne utiliser ? | exercice |
-| **PAUSE CAFÉ** |  |
-
+| Activité | Titre | Méthode |
+| :------- | :---- | :------ |
+| Accueil |  |  |
+| Introduction| Pourquoi des outils en ligne ? | présentation |
+| Enjeux | Quels outils en ligne ? | jeu et discussion |
+| Enjeux | Pourquoi sans Google ? | présentation et discussion |
+| **PAUSE** | **CAFÉ** |  |
+| Partager | Quels outils en ligne ? | exercice et discussion |
+| **PAUSE** | **MIDI** |  |
+| Collaborer | Quels outils en ligne ? | présentation et découverte |
+| Collaborer | Quels outils en ligne ? | courtes présentations |
+| Collaborer | Quels outils en ligne ? | travail en groupe |
+| Collaborer | Quels outils en ligne ? | discussion |
+| Résumé | Que retenez-vous de la journée ? | travail collaboratif |
+| Bilan | Quels objectifs vous fixez-vous ? | discussion |
+| Conclusion |  |  |
