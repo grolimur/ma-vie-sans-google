@@ -15,4 +15,3 @@
 	* [Exercice collaboration](05-par-quoi-remplacer-google/08-exercice-collboration.md)
 * [Résumé](06-resume.md)
 * [Bilan personnel](07-bilan.md)
-* [Pour aller plus loin](08-pour-aller-plus-loin.md)
