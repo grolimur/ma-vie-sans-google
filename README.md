@@ -40,7 +40,6 @@ La date de consultation correspond à la date de publication de la présente ver
 | Introduction| Pourquoi des outils en ligne ? | présentation |
 | Enjeux | Quels outils en ligne ? | jeu et discussion |
 | Enjeux | Pourquoi sans Google ? | présentation et discussion |
-| **PAUSE** | **CAFÉ** |  |
 | Partager | Quels outils en ligne ? | exercice et discussion |
 | **PAUSE** | **MIDI** |  |
 | Collaborer | Découvrez un outil | travail individuel |
