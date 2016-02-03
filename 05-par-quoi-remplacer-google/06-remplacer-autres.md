@@ -97,7 +97,7 @@ Si vous utilisez...
 | Framaboard | Framasoft | FR | . | x | . | . |
 
 **Framaboard** est un outil de gestion de projet collaborative : [https://framaboard.org/](https://framaboard.org/).   
-   
+
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
