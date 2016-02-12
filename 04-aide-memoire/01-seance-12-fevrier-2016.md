@@ -131,6 +131,5 @@ Le Playstore peut être remplacé par **F-Droid** ([https://f-droid.org/](https:
 Android peut être remplacé par **CyanogenMod** ([http://www.cyanogenmod.org/](http://www.cyanogenmod.org/)).   
 
 
-
 ---
 *Notes personnelles*
