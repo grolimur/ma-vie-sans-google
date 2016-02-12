@@ -12,7 +12,7 @@ Ce document est dérivé des notes de cours de la formation *Collaborer et parta
 Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)   
 
 ## Version `0.1`
-La dernière version de ce document est disponible sur [https://www.gitbook.com/book/grolimur/collaborer-sans-google/details](https://www.gitbook.com/book/grolimur/collaborer-sans-google/details).   
+La dernière version de ce document est disponible sur [https://www.gitbook.com/book/grolimur/ma-vie-sans-google](https://www.gitbook.com/book/grolimur/ma-vie-sans-google).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
 *Historique des versions*   

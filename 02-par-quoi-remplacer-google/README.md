@@ -1,4 +1,4 @@
-# PAR QUOI REMPLACER GOOGLE & CO. ?
+# PAR QUOI REMPLACER GOOGLE ?
 
 Les deux principales raisons de vouloir changer d'outils sont :
 1. la confidentialité
