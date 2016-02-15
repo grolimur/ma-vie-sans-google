@@ -52,62 +52,19 @@
 | Wekan | Wekan Team | FR(?) | . | . | . | x |
 
 
-## RÉSEAUX SOCIAUX
-
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
-| :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Google+ | Google | US | x | . | . | . |
-| Facebook | Facebook | US | x | . | . | . |
-| Twitter | Twitter | US | x | . | . | . |
-| Framsphère | Framasoft | FR | . | x | . | . |
-| Diaspora* | Diaspora Foundation | US | . | . | . | x |
-
-
-## VIDÉO-CONFÉRENCE
-
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
-| :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Skype | Microsoft | US | x | . | . | . |
-| Hello | Mozilla | US | . | . | . | x |
-
-
-## PRÉSENTATIONS
-
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
-| :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Prezi | Prezi Inc. | US | x | . | . | . |
-| Sozi | Guillaume Savaton | FR | . | . | . | x |
-| impress.js | Bartek Szopka & co. | -- | . | . | . | x |
-| reaveal.js | Hakim El Hattab | SV | . | . | . | x |
-
-
-## CATALOGUE DE LIVRES
-
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
-| :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Google Books | Google | US | x | . | . | . |
-| Amazon | Amazon | US | x | . | . | . |
-| Framabookin | Framasoft | FR | . | x | . | . |
-| WikiSource | Wikimedia | US | . | x | . | . |
-| Gallica | BNF | FR | . | . | x | . |
-
-
-## NOTES
-
-| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
-| :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| Evernote | Evernote Corp. | US | x | . | . | . |
-| Turtl | Lyon Bros. | US | . | x | . | . |
-| Laverna (bêta) | Wwebfor & wwwredfish | ?? | . | . | . | x |
-
-
 ## VIDÉOS
 
 | NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Youtube | Google | US | x | . | . | . |
 | MediaGoblin | MediaGobelin | US | . | . | . | x |
-| Laverna (bêta) | Wwebfor & wwwredfish | ?? | . | . | . | x |
+
+
+## CARTES
+| NOM | Fournisseur | Pays | ![O](../img/OIII-capsule-small-0.png) | ![1](../img/OIII-capsule-small-1.png) | ![2](../img/OIII-capsule-small-2.png) | ![3](../img/OIII-capsule-small-3.png) |
+| :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
+| Google Maps | Google | US | x | . | . | . |
+| OpenStreetMap | OpenStreetMap Foundation | UK | . | x | . | . |
 
 
 ## MOBILE (SMARTPHONES, TABLETTES)
