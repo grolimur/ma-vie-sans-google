@@ -12,3 +12,4 @@
 * [Aide-mémoire](04-aide-memoire/README.md)
     * [Séance du 12 février](04-aide-memoire/01-seance-12-fevrier-2016.md)
     * [Séance du 16 février](04-aide-memoire/02-seance-16-fevrier-2016.md)
+    * [Séance du 24 février](04-aide-memoire/03-seance-24-fevrier-2016.md)

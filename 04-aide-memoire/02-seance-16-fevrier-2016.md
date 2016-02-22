@@ -80,7 +80,7 @@ WhatsApp (Facebook, US) peut avantageusement être remplacé par:
 [https://threema.ch/en ](https://threema.ch/en )   
 
 
-### Cataloguie (store) d'applications
+### Catalogue (store) d'applications
 
 Le Playstore peut être remplacé par **F-Droid** ([https://f-droid.org/](https://f-droid.org/)).   
 
