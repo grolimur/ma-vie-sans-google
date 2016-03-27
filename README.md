@@ -8,17 +8,20 @@ Il s'agit de la 2e partie de *Ma vie sans Google*. La première ayant répondu �
 Ce document est dérivé des notes de cours de la formation *Collaborer et partager en ligne sans Google & Co.* (v0.99) dispensée dans le cadre du programme de formation continue de [BIS](http://http://www.bis.ch) (Bibliothèque Information Suisse):   
 [https://www.gitbook.com/book/grolimur/collaborer-sans-google/details](https://www.gitbook.com/book/grolimur/collaborer-sans-google/details)   
 
+Notez que ce document n'est pas destiné à évoluer au-delà de la v0.3.1. Si vous souhaitez accéder à un document mis à jour plus récemment, reportez-vous à [Collaborer et partager en ligen sans Google](https://www.gitbook.com/book/grolimur/collaborer-sans-google/details).   
+
 ## Auteur
 Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)   
 
-## Version `0.3`
+## Version `0.3.1`
 La dernière version de ce document est disponible sur [https://www.gitbook.com/book/grolimur/ma-vie-sans-google](https://www.gitbook.com/book/grolimur/ma-vie-sans-google).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
 *Historique des versions*   
 **0.1**: version initiale (12.02.2016)   
 **0.2**: màj pour la 2e séance (16.02.2016)   
-**0.2**: màj pour la 3e séance (24.02.2016)   
+**0.3**: màj pour la 3e séance (24.02.2016)   
+**0.3.1**: précisions dans README.txt (27.03.2016)   
 
 ## Licence `CC BY`
 ![logo-CC-BY](img/by.svg)   
