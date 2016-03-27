@@ -1,7 +1,7 @@
 # Collaborer et partager en ligne sans Google & Co.
 
 ## Description
-Ces notes sont à une formation continue sur le thème *Ma vie sans Google* interne à la [Bibliothèque de l'EPFL](http://library.epfl.ch) ayant eu lieu en février 2016.   
+Ces notes sont liées à une formation continue sur le thème *Ma vie sans Google* interne à la [Bibliothèque de l'EPFL](http://library.epfl.ch) ayant eu lieu en février 2016.   
 ![logo-bibliotheque](img/logo-bibliotheque.png)![logo-EPFL](img/logo-EPFL.jpg)   
 
 Il s'agit de la 2e partie de *Ma vie sans Google*. La première ayant répondu à la question "Pourquoi se passer de Google ?", cette suite répond à la question "Comment se passer de Google ?".   
