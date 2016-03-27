@@ -8,7 +8,7 @@ Il s'agit de la 2e partie de *Ma vie sans Google*. La première ayant répondu �
 Ce document est dérivé des notes de cours de la formation *Collaborer et partager en ligne sans Google & Co.* (v0.99) dispensée dans le cadre du programme de formation continue de [BIS](http://http://www.bis.ch) (Bibliothèque Information Suisse):   
 [https://www.gitbook.com/book/grolimur/collaborer-sans-google/details](https://www.gitbook.com/book/grolimur/collaborer-sans-google/details)   
 
-Notez que ce document n'est pas destiné à évoluer au-delà de la v0.3.1. Si vous souhaitez accéder à un document mis à jour plus récemment, reportez-vous à [Collaborer et partager en ligen sans Google](https://www.gitbook.com/book/grolimur/collaborer-sans-google/details).   
+Notez que ce document n'est pas destiné à évoluer au-delà de la v0.3.1. Si vous souhaitez accéder à un document mis à jour plus récemment, reportez-vous à [Collaborer et partager en ligne sans Google](https://www.gitbook.com/book/grolimur/collaborer-sans-google/details).   
 
 ## Auteur
 Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)   
