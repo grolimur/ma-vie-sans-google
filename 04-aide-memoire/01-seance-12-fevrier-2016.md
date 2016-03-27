@@ -107,7 +107,6 @@
 | :-- | :---------- | :--: | :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | Youtube | Google | US | x | . | . | . |
 | MediaGoblin | MediaGobelin | US | . | . | . | x |
-| Laverna (bêta) | Wwebfor & wwwredfish | ?? | . | . | . | x |
 
 
 ## MOBILE (SMARTPHONES, TABLETTES)
